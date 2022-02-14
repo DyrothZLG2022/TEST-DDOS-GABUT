@@ -1,3 +1,5 @@
 # TEST-DDOS-GABUT
 
-CMD YO NDAK TAU
+git clone https://github.com/DyrothZLG2022/TEST-DDOS-GABUT
+cd TEST-DDOS-GABUT
+python
